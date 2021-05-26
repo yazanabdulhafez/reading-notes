@@ -1,5 +1,4 @@
 # GROWTH MINDSET
-
 ___I think that growth mindset means that we can gain and improvea new skill even if we did not good at at in first times by perseverance , effort and go out from the comfortzone.___
 
 **How to keep MYself in a growth mindset:**

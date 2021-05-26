@@ -7,7 +7,7 @@
 
 # Table of Contents:
 
-1. [growth mindset](https://yazanabdulhafez.github.io/reading-notes/growthmindset)
+1. [growthmindset](https://yazanabdulhafez.github.io/reading-notes/growthmindset)
 2. [Read01](https://yazanabdulhafez.github.io/reading-notes/Read01)
 
 2. [Read02](https://yazanabdulhafez.github.io/reading-notes/Read02)
