@@ -9,8 +9,7 @@
 
 1. [growthmindset](https://yazanabdulhafez.github.io/reading-notes/growthmindset)
 2. [Read01](https://yazanabdulhafez.github.io/reading-notes/Read01)
-
-2. [Read02](https://yazanabdulhafez.github.io/reading-notes/Read02)
-2. [Read03](https://yazanabdulhafez.github.io/reading-notes/Read03)
+3. [Read02](https://yazanabdulhafez.github.io/reading-notes/Read02)
+4. [Read03](https://yazanabdulhafez.github.io/reading-notes/Read03)
                                         
                                          
