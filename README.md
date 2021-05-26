@@ -1,25 +1,16 @@
 # reading-notes
-### here we save the reading parts in labs
+### YAZAN ALKARABSHEH   
+ ![image of profile](https://avatars.githubusercontent.com/u/84713554?v=4.jpg)
 
-##### GROWTH MINDSET:
+## *' hello every body , my name is yazan al karabsheh from salt city , I graduated from the university of Jordan in 2017and holding a degree in electrical engineering ,I worked in past years as electrical Technion  also I had hoppy in a lot of things such as technology ,painting and farming .I have an interest in programming since the first material we took about c++ at our university. I wish to you all the good luck and achieve what you want after this course.'*
+==============
 
-___I think that growth mindset means that we can gain and improvea new skill even if we did not good at at in first times by perseverance , effort and go out from the comfortzone.___
+# Table of Contents
 
-**How to keep MYself in a growth mindset:**
-
-1. Work hard , gain knowlage and leave the comfortzone.
-
-2. face the complex problems that faced me and try to solve it even if it take alot of time.
-
-3. take someone as a lead example of success,so i courage myself by watching him.
-
-![growth mindset image](https://blog.cengage.com/wp-content/uploads/2020/11/blog-growth-mindset-1511130.png)
-
-
-For more information visit the following link:
-[growth mindset](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/)
-
-
-GOOD LUCK FOR EVERYBODY 
-======================
-**YAZAN A.A. ALKARABSHEH**
+1. [My first title](#my-first-title)
+2. [My second title](#my-second-title)
+2. [My second title](#my-second-title)
+2. [My second title](#my-second-title)
+2. [My second title](#my-second-title)
+                                        
+                                         
