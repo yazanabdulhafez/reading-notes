@@ -10,7 +10,7 @@
                                         
  |Name  |file|
 |-----|--------|
-|growthmindset | [growthmindset](https://yazanabdulhafez.github.io/reading-notes/growthmindset)    |
+|lab1 | [growthmindset](https://yazanabdulhafez.github.io/reading-notes/lab1)    |
 |Read01  |[Read01](https://yazanabdulhafez.github.io/reading-notes/Read01)      |                                        
 |Read02| [Read02](https://yazanabdulhafez.github.io/reading-notes/Read02)|
 |Read03|[Read03](https://yazanabdulhafez.github.io/reading-notes/Read03)|
