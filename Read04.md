@@ -118,3 +118,15 @@ An if statement looks like this:
 *A typical script in JavaScript or PHP (and the like) includes many control structures, including conditionals, loops and functions. Parts of a script may also be set to execute when events occur.
 Control flow means that when you read a script, you must not only read from start to finish but also look at program structure and how it affects order of execution.*
 
+<<<<<<< HEAD
+=======
+Arithmetic operators
+An arithmetic operator takes numerical values (either literals or variables) as their operands and returns a single numerical value. The standard arithmetic operators are addition (+), subtraction (-), multiplication (*), and division (/). 
+
+String operators
+In addition to the comparison operators, which can be used on string values, the concatenation operator (+) concatenates two string values together, returning another string that is the union of the two operand strings.
+
+For example,
+
+console.log('my ' + 'string'); // console logs the string "my string".
+
