@@ -7,9 +7,11 @@
 
 # Table of Contents:
 
-1. [growthmindset](https://yazanabdulhafez.github.io/reading-notes/growthmindset)
-2. [Read01](https://yazanabdulhafez.github.io/reading-notes/Read01)
-3. [Read02](https://yazanabdulhafez.github.io/reading-notes/Read02)
-4. [Read03](https://yazanabdulhafez.github.io/reading-notes/Read03)
                                         
-                                         
+ |Name  |file|
+|-----|--------|
+|growthmindset | [growthmindset](https://yazanabdulhafez.github.io/reading-notes/growthmindset)    |
+|Read01  |[Read01](https://yazanabdulhafez.github.io/reading-notes/Read01)      |                                        
+|Read02| [Read02](https://yazanabdulhafez.github.io/reading-notes/Read02)|
+|Read03|[Read03](https://yazanabdulhafez.github.io/reading-notes/Read03)|
+|Read04|[Read04](https://yazanabdulhafez.github.io/reading-notes/Read04)|
