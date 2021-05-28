@@ -8,10 +8,10 @@
 # Table of Contents:
 
                                         
- |Name  |file|
+ |File number  |Description|
 |-----|--------|
 |lab1 | [growthmindset](https://yazanabdulhafez.github.io/reading-notes/lab1)    |
-|Read01  |[Read01](https://yazanabdulhafez.github.io/reading-notes/Read01)      |                                        
-|Read02| [Read02](https://yazanabdulhafez.github.io/reading-notes/Read02)|
-|Read03|[Read03](https://yazanabdulhafez.github.io/reading-notes/Read03)|
-|Read04|[Read04](https://yazanabdulhafez.github.io/reading-notes/Read04)|
+|Read01  |[markdown](https://yazanabdulhafez.github.io/reading-notes/Read01)      |                                        
+|Read02| [Git ](https://yazanabdulhafez.github.io/reading-notes/Read02)|
+|Read03|[An introduction to wireframing](https://yazanabdulhafez.github.io/reading-notes/Read03)|
+|Read04|[Dynamic web pages with JavaScript](https://yazanabdulhafez.github.io/reading-notes/Read04)|
