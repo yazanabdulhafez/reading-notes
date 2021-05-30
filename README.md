@@ -15,3 +15,4 @@
 |Read02| [Git ](https://yazanabdulhafez.github.io/reading-notes/Read02)|
 |Read03|[An introduction to wireframing](https://yazanabdulhafez.github.io/reading-notes/Read03)|
 |Read04|[Dynamic web pages with JavaScript](https://yazanabdulhafez.github.io/reading-notes/Read04)|
+|Read05|[Operators and Loops](https://yazanabdulhafez.github.io/reading-notes/Read05)|
