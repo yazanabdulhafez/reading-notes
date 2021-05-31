@@ -23,6 +23,7 @@ Before the colon, we have the property, and after the colon, the value. CSS prop
 A CSS stylesheet will contain many such rules, written one after the other.
 
 ## Three Ways to Insert CSS
+
 There are three ways of inserting a style sheet:
 
 1. External CSS
@@ -103,4 +104,4 @@ Attribute selector **[attr=value]**
 
 ## CSS Tools: Reset CSS
 
-The goal of a reset stylesheet is to reduce browser inconsistencies in things like default line heights, margins and font sizes of headings, and so on. 
+***The goal of a reset stylesheet is to reduce browser inconsistencies in things like default line heights, margins and font sizes of headings, and so on.*** 
