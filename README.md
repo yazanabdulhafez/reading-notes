@@ -7,6 +7,7 @@
 --------
 ## Code 201 Reading Notes
 ### Table of Contents:
+
 |File Number|Description|
 |--------|--------|
 |class-01|[Introductory HTML and JavaScript](https://yazanabdulhafez.github.io/reading-notes/class-01)|
