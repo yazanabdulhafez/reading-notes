@@ -1,7 +1,8 @@
 
 # Code 102 Reading Notes
+
 |File Number|Description|
-|-----|--------|
+|--------|--------|
 |lab1 | [growthmindset](https://yazanabdulhafez.github.io/reading-notes/lab1)    |
 |Read01  |[markdown](https://yazanabdulhafez.github.io/reading-notes/Read01)      |                                        
 |Read02| [Git ](https://yazanabdulhafez.github.io/reading-notes/Read02)|
