@@ -37,8 +37,10 @@ which other pages can be displayed.
 * The **<meta>** tag allows you to supply all kinds of
 information about your web page.
 * Escape characters are used to include special
-characters in your pages such as** <, >, and ©**
+characters in your pages such as** <, >, and ©**.
+
 ---------
+
 * he new HTML5 elements indicate the purpose of
 different parts of a web page and help to describe
 its structure.
@@ -52,6 +54,7 @@ block-level elements.
 
 * To make HTML5 elements work in Internet Explorer 8
 (and older versions of IE), extra JavaScript is needed,which is available free from Google.
+
 ---------
 
 * It's important to understand who your target audience
