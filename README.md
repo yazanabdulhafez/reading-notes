@@ -19,18 +19,18 @@
 ## Code 201 Reading Notes
 |File Number|Description|
 |-----|--------|
-|Read01|[]()|
-|Read02|[]()|
-|Read03|[]()|
-|Read04|[]()|
-|Read05|[]()|
-|Read06|[]()|
-|Read07|[]()|
-|Read08|[]()|
-|Read09|[]()|
-|Read10|[]()|
-|Read11|[]()|
-|Read12|[]()|
-|Read13|[]()|
-|Read14|[]()|
-|Read15|[]()|
+|class-01|[Introductory HTML and JavaScript](https://yazanabdulhafez.github.io/reading-notes/class-01)|
+|class-02|[]()|
+|class-03|[]()|
+|class-04|[]()|
+|class-05|[]()|
+|class-06|[]()|
+|class-07|[]()|
+|class-08|[]()|
+|class-09|[]()|
+|class-10|[]()|
+|class-11|[]()|
+|class-12|[]()|
+|class-13|[]()|
+|class-14|[]()|
+|class-15|[]()|
