@@ -106,12 +106,13 @@ In computer programming, each physical thing in
 the world can be represented as an object.
 
 Each object can have its own:
-* Properties:Each property has a name and a value, and each of
+* Properties: Each property has a name and a value, and each of
 these name/value pairs tells you something about
 each individual instance of the object.
-* Events:An event is the computer's way of sticking up its
+
+* Events: An event is the computer's way of sticking up its
 hand to say, "Hey, this just happened!
-* Methods:Methods typically represent how people (or other
+* Methods: Methods typically represent how people (or other
 things) interact with an object in the real world
 
 Together they create a working model of that object.
