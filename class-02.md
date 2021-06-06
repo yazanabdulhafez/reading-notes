@@ -46,26 +46,19 @@ to add a line break inside the
 middle of a paragraph you can
 use the line break tag `<br />`.
 
-To create a break between
-themes — such as a change of
-topic in a book or a new scene
-in a play — you can add a
-horizontal rule between sections
-using the `<hr />` tag.
+To create a break between themes — such as a change of topic in a book or a new scene in a play — you can add a horizontal rule between sections using the `<hr />` tag.
 
 There are some text elements that are not intended to affect the
 structure of your web pages, but they do add extra information to the
 pages — they are known as semantic markup.
 
-The use of the`<strong>`
-element indicates that its
-content has strong importance.
+The use of the`<strong>` element indicates that its content has strong importance.
+The `<em>` element indicates emphasis that subtly changes the meaning of a sentence.
 
-The `<em>` element indicates
-emphasis that subtly changes
-the meaning of a sentence.
+-------
 
 ## Introducing CSS
+
 CSS allows you to create rules that specify how the content of
 an element should appear.
 
@@ -97,29 +90,22 @@ between the HTML page and
 the file it is linked to. The value
 should be stylesheet.
 
-You can also include CSS rules
-within an HTML page by placing
-them inside a `<style>` element,
-which usually sits inside the
-`<head>`element of the page.
+You can also include CSS rules within an HTML page by placing them inside a `<style>` element,
+which usually sits inside the `<head>` element of the page.
 
+* There are many different types of CSS selector that allow you to target rules to specific elements in an HTML document.
 
-* There are many different types
-of CSS selector that allow you to
-target rules to specific elements
-in an HTML document.
+|Selector          |    Meaning                 |            Example                          |
+|------------------|----------------------------|---------------------------------------------|
+|Universal Selector| Applies to all elements in the document|ex: `* {}`Targets all elements on the page|
+|Type Selector|Matches element names|ex:`h1 {}` Targets the `<h1>` elements|
+|Class Selector|Matches an element whose class attribute has a value that matches the one specified after the period (or full stop) symbol|ex:`.note {}` |
+|ID Selector|Matches an element whose id attribute has a value that matches the one specified after the pound or hash symbol|ex:`#introduction {}` |
 
+-------
 
-|Selector          |    Meaning      |            Example|
-|------------------|-----------------|-------------------|
-|Universal Selector|Applies to all elements in the document|* {}Targets all elements on the page|
-
-|Type Selector|Matches element names|h1 {} Targets the `<h1>` elements|
-
-|Class Selector|Matches an element whose class attribute has a value that matches the one specified after the period (or full stop) symbol|.note {} |
-
-|ID Selector|Matches an element whose id attribute has a value that matches the one specified after the pound or hash symbol|#introduction {} |
 ## Java script
+
 **A script is a series of instructions that a computer can follow one-by-one.
 Each individual instruction or step is known as a statement.
 Statements should end with a semicolon.**
@@ -134,6 +120,7 @@ needs to do its job. It can store this
 data in variables.
 
 ## DATA TYPES
+
 1. NUMERIC DATA TYPE
 The numeric data type handles
 numbers.
@@ -148,6 +135,7 @@ of two va lues: true or false.
 
 
 Here are six rules you must always follow when giving a variable a name:
+
 1. The name must begin with
 a letter, dollar sign ($),or an
 underscore (_). It must not start
@@ -168,13 +156,15 @@ up of more than one word, use a
 capital letter for the first letter of
 every word after the first word.
 
- ## ARRAYS
- An array is a special type of variable. It doesn't
-just store one value; it stores a list of values.Values in an array are accessed as if they are in a numbered list. It is important to know that the numbering of this list starts at zero (not one).
+## ARRAYS
+
+An array is a special type of variable. It doesn't just store one value; it stores a list of values.Values in an array are accessed as if they are in a numbered list. It is important to know that the numbering of this list starts at zero (not one).
 
 ## EXPRESSIONS
+
 An expression evaluates into (results in) a single value. Broadly speaking
 there are two types of expressions.
+
 1. EXPRESSIONS THAT JUST ASSIGN A
 VALUE TO A VARIABLE.
 2. EXPRESSIONS THAT USE TWO OR
@@ -182,7 +172,9 @@ MORE VALUES TO RETURN A
 SINGLE VALUE.
 
 ## OPERATORS
+
 Expressions rely on things called operators; they allow programmers to create a single value from one or more values.
+
 * ASSIGNMENT OPERATORS
 Assign a value to a variable
 color = 'beige';
@@ -208,7 +200,9 @@ The value of buy is false.
 Combine expressions and return true or fa 1 se
 buy= (5 > 3) && (2 < 4);
 The value of buy is now true.
+
 ## LOOPS
+
 There are also many
 occasions where you will
 want to perform the same
@@ -224,12 +218,16 @@ if ... else statements allow you to run one set of code
 if a condition is true, and another if it is false.
 if ...else statement al lows you
 to provide two sets of code:
+
 1. one set if the condition evaluates to true.
-2. another set if the condition is
-false.
+2. another set if the condition is false.
+
 ## [Why good commit messages matter](https://chris.beams.io/posts/git-commit/)
+
 The contributors to these repositories know that a well-crafted Git commit message is the best way to communicate context about a change to fellow developers (and indeed to their future selves). A diff will tell you what changed, but only the commit message can properly tell you why.
+
 The seven rules of a great Git commit message:
+
 1. Separate subject from body with a blank line.
 2. Limit the subject line to 50 characters.
 3. Capitalize the subject line.
