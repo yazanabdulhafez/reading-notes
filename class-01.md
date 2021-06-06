@@ -1,4 +1,5 @@
 # Introductory HTML and JavaScript
+
 ***Html uses eLements to describe the structure of Pages
 Tags act like containers. They tell you something about the information that lies between their opening and closing tags.***
 
@@ -9,9 +10,10 @@ made up of two parts: a name and a value,
 separated by an equals sign.
 attributeS teLL us more about eLements:***
 
-**<p lang="en-us">Paragraph in English</p>**
+**`<p lang="en-us">`Paragraph in English</p>**
 
 ---------
+
 * Because there have been
 several versions of HTML, each
 web page should begin with a
@@ -25,8 +27,7 @@ to your code that will not be
 visible in the user's browser, you
 can add the text between these
 characters:
-**<!-- comment goes here -->**
-
+**`<!-- comment goes here -->`**
 
 * The id and class attributes allow you to identify
 particular elements.
@@ -46,7 +47,7 @@ different parts of a web page and help to describe
 its structure.
 
 * The new elements provide clearer code (compared
-with using multiple ***<div>*** elements).
+with using multiple ***`<div>`*** elements).
 
 * Older browsers that do not understand HTML5
 elements need to be told which elements are
@@ -75,8 +76,10 @@ using size, color, and style.
 * You can use grouping and similarity to help simplify
 the information you present.
 
--------
+---------
+
 ## JavaScript
+
 **A script is a series of instructions that a
 computer can follow to achieve a goal.**
 
@@ -101,18 +104,18 @@ content of a page.
 
 * You can specify that a script should run
 when a specific event has occurred.
-## OBJECT:
+
+## OBJECT
+
 In computer programming, each physical thing in
 the world can be represented as an object.
 
 Each object can have its own:
+
 * Properties: Each property has a name and a value, and each of
-these name/value pairs tells you something about
-each individual instance of the object.
+these name/value pairs tells you something about each individual instance of the object.
 
-* Events: An event is the computer's way of sticking up its
-hand to say, "Hey, this just happened!
+* Events: An event is the computer's way of sticking up its hand to say, "Hey, this just happened!.
+
 * Methods: Methods typically represent how people (or other
-things) interact with an object in the real world
-
-Together they create a working model of that object.
+things) interact with an object in the real world Together they create a working model of that object
