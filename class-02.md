@@ -187,17 +187,17 @@ The value of area is now 6.
 
 * STRING OPERATORS
 Combine two strings
-greeting= 'Hi 1 + 'Mol ly';
+greeting= 'Hi' + 'Molly';
 The value of greeting is now Hi Molly.
 
 
 * COMPARISON OPERATORS
-Compare two values and return true or fa 1 se
+Compare two values and return true or false
 buy = 3 > 5;
 The value of buy is false.
 
 * LOGICAL OPERATORS
-Combine expressions and return true or fa 1 se
+Combine expressions and return true or false
 buy= (5 > 3) && (2 < 4);
 The value of buy is now true.
 
