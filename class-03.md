@@ -115,7 +115,7 @@ condition. This means that those statements are run once whether or not the cond
 
 ![while loop](https://www.bookofnetwork.com/images/javascript-images/JS_While-loop-example_20Sep16_1243.png)
 
-## The resourses used in this file
+## The recourses used in this file
 
 1. Duckett HTML book.
 
