@@ -18,7 +18,7 @@
 |--------|--------|
 |class-01|[Introductory HTML and JavaScript](https://yazanabdulhafez.github.io/reading-notes/class-01)|
 |class-02|[HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://yazanabdulhafez.github.io/reading-notes/class-02)|
-|class-03|[HTML Lists, CSS Boxes, JS Control Flow]()|
+|class-03|[HTML Lists, CSS Boxes, JS Control Flow](https://yazanabdulhafez.github.io/reading-notes/class-03)|
 |class-04|[HTML Links, CSS Layout, JS Functions]()|
 |class-05|[HTML Images; CSS Color & Text]()|
 |class-06|[JS Object Literals; The DOM]()|
