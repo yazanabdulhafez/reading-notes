@@ -5,12 +5,12 @@
 Links are the defining feature of the web because they allow you to move from one web page to another — enabling the
 very idea of browsing or surfing.
 
-Links are created using the `<a>` element. Users can click on anything between the opening `<a>` tag and the closing `<a>` tag. You specifywhich page you want to link to using the href attribute.
+Links are created using the `<a>` element . Users can click on anything between the opening `<a>` tag and the closing `<a>` tag. You specify which page you want to link to using the href attribute.
 
 Links are created using the `<a>` element which has an attribute called href. The value of the href attribute is the page that you want people to go to when they click on the link.Users can click on anything that appears between the opening
 `<a>`tag and the closing `</a>` tag and will be taken to the page specified in the href attribute.
 
-Relative URLs can be used when linking to pages within your own website. They provide a shorthand way of telling the browser where tofind your files.
+Relative URLs can be used when linking to pages within your own website. They provide a shorthand way of telling the browser where to find your files.
 
 * Use the `<a>` element to define a link.
 * Use the href attribute to define the link address.
@@ -50,13 +50,13 @@ As more diverse screen sizes have appeared on web-enabled devices, the concept o
 
 In JavaScript, functions are first-class objects, because they can have properties and methods just like any other object. What distinguishes them from other objects is that functions can be called. In brief, they are Function objects.
 
-Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of st atements).
+Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements).
 
 The location where you declare a variable will affect where it can be used within your code. If you declare it within a function, it can only be used within that function. This is known as the variable's scope.
 
 * **LOCAL VARIABLES: When a variable is created inside a function using the var keyword, it can only be used in that function.**
 
-* **GLOBAL VARIABLES:If you create a variable outside of a function, then it can be used anywhere within the script. It is called a global variable and has global scope.**
+* **GLOBAL VARIABLES: If you create a variable outside of a function, then it can be used anywhere within the script. It is called a global variable and has global scope.**
 
 An object is a series of variables and functions that represent something from the world around you.
 
@@ -84,5 +84,5 @@ Resources used in this reading.
 1. `https://www.w3schools.com/html/html_links.asp`
 2. `https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout`
 3. Duckett HTML book
-4. Duckett JS book
-5. `https://www.codefellows.org/blog/6-reasons-for-pair-programming/`
+4. `https://www.codefellows.org/blog/6-reasons-for-pair-programming/`
+5. Duckett JS book
