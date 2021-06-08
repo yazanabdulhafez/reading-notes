@@ -76,7 +76,7 @@ While there are many different styles, pair programming commonly involves two ro
 2. Engaged collaboration
 3. Learning from fellow students
 4. Social skills
-5. ob interview readiness
+5. job interview readiness
 6. Work environment readiness
 
 Resources used in this reading.
