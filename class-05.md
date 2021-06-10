@@ -139,5 +139,7 @@ element when a user hovers over or clicks on text, or
 when they have visited a link.
 
 REFRENCES:
-Javascript_and_jquery_interactive_jon_du.
-duckett_html.
+
+1. Javascript_and_jquery_interactive_jon_du.
+
+2. duckett_html.
