@@ -96,12 +96,13 @@ by browsers. For example:
 DarkCyan
 
 Color pickers can help you find the color you want.
-XX It is important to ensure that there is enough contrast
+
+* It is important to ensure that there is enough contrast
 between any text and the background color (otherwise
 people will not be able to read your content).
-XX CSS3 has introduced an extra value for RGB colors to
+* CSS3 has introduced an extra value for RGB colors to
 indicate opacity. It is known as RGBA.
-XX CSS3 also allows you to specify colors as HSL values,
+* CSS3 also allows you to specify colors as HSL values,
 with an optional opacity value. It is known as HSLA.
 
 ## [CSS Text](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
