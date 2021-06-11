@@ -1,5 +1,7 @@
 # HTML Images; CSS Color & Text
 
+![image tag](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2020/07/html-images-df.jpg)
+
 To add an image into the page you need to use an `<img>` element. This is an empty element (which means there is
 no closing tag). It must carry the following two attributes:
 
@@ -74,26 +76,15 @@ logos that use flat colors are better saved as GIFs.
 
 ![colors](https://planet-www.com/ar/wp-content/uploads/2015/07/11.png)
 
-The color property allows you
-to specify the color of text inside
-an element. You can specify any
-color in CSS in one of three ways:
-rgb values
-These express colors in terms
-of how much red, green and
-blue are used to make it up. For
-example: rgb(100,100,90)
-hex codes
-These are six-digit codes that
-represent the amount of red,
-green and blue in a color,
-preceded by a pound or hash #
-sign. For example: #ee3e80
-color names
-There are 147 predefined color
-names that are recognized
-by browsers. For example:
-DarkCyan
+The color property allows you to specify the color of text inside an element. You can specify any color in CSS in one of three ways:
+
+1. rgb values
+These express colors in terms of how much red, green and blue are used to make it up. For example: rgb(100,100,90).
+2. hex codes
+These are six-digit codes that represent the amount of red, green and blue in a color, preceded by a pound or hash # sign. For example: #ee3e80.
+3. color names
+There are 147 predefined color names that are recognized by browsers. For example:
+DarkCyan.
 
 Color pickers can help you find the color you want.
 
@@ -112,7 +103,8 @@ The Text Background-Color is used to set the color of the Background.
 The properties that allow you to control
 the appearance of text can be split into
 two groups:
-Those that directly affect t ●● he font and its appearance
+
+* Those that directly affect the font and its appearance
 (including the typeface, whether it is regular, bold or italic,
 and the size of the text)
 
@@ -138,6 +130,36 @@ indented.
 * You can use pseudo-classes to change the style of an
 element when a user hovers over or clicks on text, or
 when they have visited a link.
+
+## [JPEG vs PNG vs GIF — which image format to use and when?](https://blog.imagekit.io/jpeg-vs-png-vs-gif-which-image-format-to-use-and-when-c8913ae3e01d)
+
+### Compression
+
+* JPEG is a lossy compression specification that takes advantage of human perception. It can achieve compression ratios of 1:10 without any perceivable difference in quality.
+
+* PNG is a lossless image format using DEFLATE compression. No data is lost during compression and no compression artefacts are introduced in the image. For this reason, a PNG image would retain higher quality than an image than JPEG and would look a lot sharper, it would also occupy more space on the disk. This makes it unsuitable for storing or transferring high-resolution digital photographs but a great choice for images with text, logos and shapes with sharp edges.
+
+* GIF is also a lossless image format that uses LZW compression algorithm. It was favoured over PNG for simple graphics in websites in its early days because the support of PNG was still growing. Given that PNG is now supported across all major devices and that PNG compression is about 5–25% better than GIF compression, GIF images are now mainly used only if the image contains animations.
+
+### Transparency
+
+In a simple form, transparency indicates something that is completely invisible.
+JPEG images don’t support transparency and are hence not usable for such cases.
+PNG images support transparency in two ways , GIF is unsuitable for images with transparent backgrounds.
+
+### Colours
+
+There is a significant difference in the number of colours that can be supported by these 3 formats.
+
+* JPEG images can support around 16 million colours. This is what makes them suitable for storing images of natural scenes.
+
+* PNG images mainly have two modes — PNG8 and PNG24. PNG8 can support upto 256 colours whereas PNG24 can handle upto 16 million colours like a JPEG image. GIF images are limited to 256 colours.
+
+* Of these 3 formats, only GIF supports animation. This capability makes GIF format suitable for delivering engaging ads and banners.
+
+#### summary
+
+Use JPEG format for all images that contain a natural scene or photograph where variation in colour and intensity is smooth. Use PNG format for any image that needs transparency or for images with text & objects with sharp contrast edges like logos. Use GIF format for images that contain animations.
 
 REFRENCES:
 
