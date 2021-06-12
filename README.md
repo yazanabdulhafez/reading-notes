@@ -10,7 +10,7 @@
 
 --------
 
-## **Welcome to my reading notes,here you will find reading notes for code 102 & 201** 
+## **Welcome to my reading notes,here you will find reading notes for code 102 & 201**
 
 --------
 
@@ -29,7 +29,7 @@
 |class-03|[HTML Lists, CSS Boxes, JS Control Flow](https://yazanabdulhafez.github.io/reading-notes/class-03)|
 |class-04|[HTML Links, CSS Layout, JS Functions](https://yazanabdulhafez.github.io/reading-notes/class-04)|
 |class-05|[HTML Images; CSS Color & Text](https://yazanabdulhafez.github.io/reading-notes/class-05)|
-|class-06|[JS Object Literals; The DOM]()|
+|class-06|[JS Object Literals; The DOM](https://yazanabdulhafez.github.io/reading-notes/class-06)|
 |class-07|[HTML Tables; JS Constructor Functions]()|
 |class-08|[More CSS Layout]()|
 |class-09|[Forms and Events]()|
