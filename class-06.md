@@ -1,8 +1,10 @@
-# Problem Domain, Objects, and the DOM
+# JS Object Literals; The DOM
 
-## Understanding The Problem Domain Is The Hardest Part Of Programming
+## Problem Domain
 
 ![problem domain](https://texavi.com/blog/wp-content/uploads/2011/09/Problems_vs_Solutions_Model_TexaviInnovativeSolutions.png)
+
+## Understanding The Problem Domain Is The Hardest Part Of Programming
 
 **If understanding the problem domain is the hardest part of programming and you want to make programming easier, you can do one of two things:**
 
