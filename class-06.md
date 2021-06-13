@@ -53,7 +53,6 @@ There is one drawback: if you are unfamiliar with the syntax, it can be very eas
 
 ![DOM](https://devopedia.org/images/article/282/9041.1597665465.jpg)
 
-
 * The browser represents the page using a DOM tree.
 
 * DOM trees have four types of nodes: document nodes,
