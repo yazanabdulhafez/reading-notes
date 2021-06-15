@@ -32,7 +32,7 @@
 |class-06|[JS Object Literals; The DOM](https://yazanabdulhafez.github.io/reading-notes/class-06)|
 |class-07|[HTML Tables; JS Constructor Functions](https://yazanabdulhafez.github.io/reading-notes/class-07)|
 |class-08|[More CSS Layout](https://yazanabdulhafez.github.io/reading-notes/class-08)|
-|class-09|[Forms and Events]()|
+|class-09|[Forms and Events](https://yazanabdulhafez.github.io/reading-notes/class-09)|
 |class-10|[JS Debugging]()|
 |class-11|[Assorted Topics]()|
 |class-12|[Docs for the HTML (canvas) Element & Chart.js]()|
