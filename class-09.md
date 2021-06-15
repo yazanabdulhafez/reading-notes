@@ -105,7 +105,7 @@ The most commonly used events are W3C DOM
 events, although there are others in the HTMLS
 specification as well as browser-specific events.
 
-## Resourses used in this reading
+## Resources used in this reading
 
 1. the Duckett HTML book
 2. Javascript_and_jquery_interactive_jon_du
