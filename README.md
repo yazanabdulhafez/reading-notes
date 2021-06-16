@@ -33,7 +33,7 @@
 |class-07|[HTML Tables; JS Constructor Functions](https://yazanabdulhafez.github.io/reading-notes/class-07)|
 |class-08|[More CSS Layout](https://yazanabdulhafez.github.io/reading-notes/class-08)|
 |class-09|[Forms and Events](https://yazanabdulhafez.github.io/reading-notes/class-09)|
-|class-10|[JS Debugging]()|
+|class-10|[JS Debugging](https://yazanabdulhafez.github.io/reading-notes/class-10)|
 |class-11|[Assorted Topics]()|
 |class-12|[Docs for the HTML (canvas) Element & Chart.js]()|
 |class-13|[Local Storage]()|
