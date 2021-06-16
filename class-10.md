@@ -1,6 +1,6 @@
 # JS Debugging
 
-![javascript debugging](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2019/08/JavaScript-Debugging-and-Testing.png)
+![javascript debugging](https://containerjournal.com/wp-content/uploads/2018/11/Rookout-Debugging-Tools.jpg)
 
 When you are writing JavaScript, do not expect to write it perfectly the first time.
 Programming is like problem solving: you are given a puzzle and not only do you have to solve
@@ -51,7 +51,7 @@ VALUE IS UNEXPECTED DATA TYPE
 This is often caused by trying to use an object or
 method that does not exist.
 
-6. RangeError:
+6. Range Error:
 NUMBER OUTSIDE OF RANGE
 If you call a function using numbers outside of its
 accepted range.
@@ -160,22 +160,22 @@ generate your own errors before the interpreter creates them.
 
 ### DEBUGGING TIPS
 
-1. ANOTHER BROWSER:Some problems are browserspecific.
+1. ANOTHER BROWSER : Some problems are browserspecific.
 Try the code in another
 browser to see which ones are
 causing a problem.
-2. ADD NUMBERS:Write numbers to the console
+2. ADD NUMBERS : Write numbers to the console
 so you can see which the items
 get logged. It shows how far your
 code runs before errors stop
-3. SEARCH:Stack Overflow is a Q+A site for
+3. SEARCH : Stack Overflow is a Q+A site for
 programmers.
 Or use a traditional search
 engine such as Google, Bing, or
-4. VALIDATION TOOLS:There are a number of on line
+4. VALIDATION TOOLS: There are a number of on line
 validation tools that can help you
 try to find errors in your code:
-5. CODE PLAYGROUNDS:If you want to ask about
+5. CODE PLAYGROUNDS : If you want to ask about
 problematic code on a forum, in
 addition to pasting the code into
 a post, you could add it to a code
@@ -183,13 +183,13 @@ playground site (such as
 JSBin.com, JSFiddle. com, or
 Dabbl et. corn) and then post a
 link to it from the forum.
-6. STRIP IT BACK:Remove parts of code, and strip
+6. STRIP IT BACK : Remove parts of code, and strip
 it down to the minimum you
 need. You can do this either by
 removing the code altogether, or
 by just commenting it out using
 multi-line comments
-7. EXPLAINING THE CODE:Programmers often report
+7. EXPLAINING THE CODE : Programmers often report
 finding a solution to a problem
 while explaining the code to
 someone else.
