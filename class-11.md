@@ -3,8 +3,7 @@
 ## Images
 
 You can control the size of an image using the width and height properties in CSS, just
-like you can for any other box.Specifying image sizes helps pages to load more smoothly
-because the HTML and CSS code will often load before the images, and telling the browser how much space to leave for an image allows it to render the rest of the page without waiting for the image to download.
+like you can for any other box. Specifying image sizes helps pages to load more smoothly because the HTML and CSS code will often load before the images, and telling the browser how much space to leave for an image allows it to render the rest of the page without waiting for the image to download.
 
 In the CSS, you add selectors for each of the class names, then use the CSS width and height properties to control the image dimensions.
 
@@ -68,7 +67,7 @@ The background image moves
 up and down as the user scrolls
 up and down the page.
 
-When an image is not being repeated, you can use the background-position property to specify where in the browser window the background image should be placed.This property usually has a pair of values. The first represents the horizontal position and the second represents the vertical.
+When an image is not being repeated, you can use the background-position property to specify where in the browser window the background image should be placed. This property usually has a pair of values. The first represents the horizontal position and the second represents the vertical.
 
 The background property acts like a shorthand for all of the other background properties you have just seen, and also the background-color property.
 The properties must be specified in the following order, but you can miss any value if you do not want to specify it.
@@ -134,7 +133,24 @@ Playing and pausing the video
 
 1. First of all, add the following to the bottom of your code, so that the playPauseMedia() function is invoked when the play button is clicked.
 
-2. Now to define playPauseMedia() — add the following, again at the bottom of your code.
+2. Now to define playPauseMedia() — add the following , again at the bottom of your code.
+
+### summary for syntax
+
+1. image
+`<img src="" alt="" width="" height="">`
+
+2. audio
+`<audio controls>`
+`<source src="" type="">`
+`<source src="" type="">`
+`</audio>`
+
+3. video
+​`<video width="" height="" controls>`
+`<source src="" type="">`
+`<source src="" type="">`
+`</video>`
 
 ### Resources used in this reading
 
