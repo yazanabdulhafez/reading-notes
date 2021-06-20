@@ -150,4 +150,4 @@ Charts are far better for displaying data visually than tables and have the adde
 ### Resources used in this reading
 
 1. <https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors>
-2.<https://www.w3schools.com/html/html5_canvas.asp>
+2. <https://www.w3schools.com/html/html5_canvas.asp>
