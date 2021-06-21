@@ -55,3 +55,9 @@ The handle_storage callback function will be called with a StorageEvent object, 
 |oldValue	|any|	the previous value (now overwritten), or null if a new item was added|
 |newValue	|any|	the new value, or null if an item was removed|
 |url*|	string|	the page which called a method that triggered this change|
+
+### The resources used on this reading
+
+1. <http://diveinto.html5doctor.com/storage.html>
+
+2. <https://www.w3schools.com/jsref/prop_win_localstorage.asp>
