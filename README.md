@@ -36,6 +36,6 @@
 |class-10|[JS Debugging](https://yazanabdulhafez.github.io/reading-notes/class-10)|
 |class-11|[Assorted Topics](https://yazanabdulhafez.github.io/reading-notes/class-11)|
 |class-12|[Docs for the HTML (canvas) Element & Chart.js](https://yazanabdulhafez.github.io/reading-notes/class-12)|
-|class-13|[Local Storage]()|
+|class-13|[Local Storage](https://yazanabdulhafez.github.io/reading-notes/class-13)|
 |class-14a|[CSS Transforms, Transitions, and Animations]()|
 |class-14b|[What Google Learned About Teams]()|
