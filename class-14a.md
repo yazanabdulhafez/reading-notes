@@ -80,7 +80,7 @@ To set multiple points at which an element should undergo a transition, use the 
 7. Swing
 8. Inset border
 
-### Resourses used in this reading
+### Resources used in this reading
 
 1. <http://learn.shayhowe.com/advanced-html-css/css-transforms>
 2. <http://learn.shayhowe.com/advanced-html-css/transitions-animations/>

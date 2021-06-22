@@ -13,6 +13,6 @@ For Project Aristotle, research on psychological safety pointed to particular no
 
 The technology industry is not just one of the fastest growing parts of our economy; it is also increasingly the world’s dominant commercial culture.
 
-## Resourses used in this reading
+## Resources used in this reading
 
 1.<https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html>
