@@ -14,13 +14,26 @@
 
 --------
 
-## [Code 102 Reading Notes](https://yazanabdulhafez.github.io/reading-notes/code102)
+## Code 102 Reading Notes
+
+### 102 Table of Contents
+
+|File Number|Description|
+|----|---------------------------------------------------------------------|
+|lab1|[growthmindset](https://yazanabdulhafez.github.io/reading-notes/lab1)|
+|Read01|[markdown](https://yazanabdulhafez.github.io/reading-notes/Read01)|
+|Read02|[Git](https://yazanabdulhafez.github.io/reading-notes/Read02)|
+|Read03|[An introduction to wireframing](https://yazanabdulhafez.github.io/reading-notes/Read03)|
+|Read04|[Dynamic web pages with JavaScript](https://yazanabdulhafez.github.io/reading-notes/Read04)|
+|Read05|[Operators and Loops](https://yazanabdulhafez.github.io/reading-notes/Read05)|
+|Read06-a|[Programming with JavaScript](https://yazanabdulhafez.github.io/reading-notes/Read06-a)|
+|Read06-b|[Design web pages with CSS](https://yazanabdulhafez.github.io/reading-notes/Read06-b)|
 
 --------
 
 ## Code 201 Reading Notes
 
-### Table of Contents
+### 201 Table of Contents
 
 |File Number|Description|
 |--------|--------|
@@ -37,5 +50,5 @@
 |class-11|[Assorted Topics](https://yazanabdulhafez.github.io/reading-notes/class-11)|
 |class-12|[Docs for the HTML (canvas) Element & Chart.js](https://yazanabdulhafez.github.io/reading-notes/class-12)|
 |class-13|[Local Storage](https://yazanabdulhafez.github.io/reading-notes/class-13)|
-|class-14a|[CSS Transforms, Transitions, and Animations]()|
-|class-14b|[What Google Learned About Teams]()|
+|class-14a|[CSS Transforms, Transitions, and Animations](https://yazanabdulhafez.github.io/reading-notes/class-14a)|
+|class-14b|[What Google Learned About Teams](https://yazanabdulhafez.github.io/reading-notes/class-14b)|
