@@ -14,7 +14,7 @@
 
 --------
 
-## Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 
 ### 102 Table of Contents
 
@@ -31,7 +31,7 @@
 
 --------
 
-## Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 ### 201 Table of Contents
 
@@ -55,10 +55,24 @@
 
 --------
 
-## Code 301 Reading Notes
+## Code 301 - Intermediate Software Development
 
 ### 301 Table of Contents
 
 |File Number|Description|
 |-----------|-----------|
-|           |           |
+|class-01   |           |
+|class-02   |           |
+|class-03   |           |
+|class-04   |           |
+|class-05   |           |
+|class-06   |           |
+|class-07   |           |
+|class-08   |           |
+|class-09   |           |
+|class-10   |           |
+|class-11   |           |
+|class-12   |           |
+|class-13   |           |
+|class-14   |           |
+|class-15   |           |
