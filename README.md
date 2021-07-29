@@ -61,7 +61,7 @@
 
 |File Number|Description|
 |-----------|-----------|
-|class-01   |[Introduction to React and Components](https://yazanabdulhafez.github.io/reading-notes/class01)          |
+|class-01   |[Introduction to React and Components](https://yazanabdulhafez.github.io/reading-notes/class01)|
 |class-02   |           |
 |class-03   |           |
 |class-04   |           |
