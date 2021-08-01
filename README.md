@@ -62,7 +62,7 @@
 |File Number|Description|
 |-----------|-----------|
 |class-01|[Introduction to React and Components](https://yazanabdulhafez.github.io/reading-notes/class1)|
-|class-02   |           |
+|class-02   |[State and Props](https://yazanabdulhafez.github.io/reading-notes/class2)|
 |class-03   |           |
 |class-04   |           |
 |class-05   |           |
