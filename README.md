@@ -64,7 +64,7 @@
 |class-01|[Introduction to React and Components](https://yazanabdulhafez.github.io/reading-notes/class1)|
 |class-02|[State and Props](https://yazanabdulhafez.github.io/reading-notes/class2)|
 |class-03|[Passing Functions as Props](https://yazanabdulhafez.github.io/reading-notes/class3)|
-|class-04   |           |
+|class-04|[React and Forms](https://yazanabdulhafez.github.io/reading-notes/class4)|
 |class-05   |           |
 |class-06   |           |
 |class-07   |           |
