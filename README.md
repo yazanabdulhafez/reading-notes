@@ -69,7 +69,7 @@
 |class-06|[NODE.JS](https://yazanabdulhafez.github.io/reading-notes/class6)|
 |class-07|[REST](https://yazanabdulhafez.github.io/reading-notes/class7)|
 |class-08|[APIs](https://yazanabdulhafez.github.io/reading-notes/class8)|
-|class-09   |           |
+|class-09|[FUNCTIONAL PROGRAMMING](https://yazanabdulhafez.github.io/reading-notes/class9)|
 |class-10   |           |
 |class-11   |           |
 |class-12   |           |
