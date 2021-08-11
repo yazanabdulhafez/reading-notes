@@ -70,7 +70,7 @@
 |class-07|[REST](https://yazanabdulhafez.github.io/reading-notes/class7)|
 |class-08|[APIs](https://yazanabdulhafez.github.io/reading-notes/class8)|
 |class-09|[FUNCTIONAL PROGRAMMING](https://yazanabdulhafez.github.io/reading-notes/class9)|
-|class-10   |           |
+|class-10|[In memory storage](https://yazanabdulhafez.github.io/reading-notes/class10)|
 |class-11   |           |
 |class-12   |           |
 |class-13   |           |
