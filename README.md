@@ -74,5 +74,5 @@
 |class-11|[Authentication](https://yazanabdulhafez.github.io/reading-notes/class11)|
 |class-12|[Mongo and Mongoose](https://yazanabdulhafez.github.io/reading-notes/class12)|
 |class-13|[CRUD](https://yazanabdulhafez.github.io/reading-notes/class13)           |
-|class-14|           |
+|class-14|[Diversity & Inclusion in the Tech Industry](https://yazanabdulhafez.github.io/reading-notes/class14)|
 |class-15|           |
