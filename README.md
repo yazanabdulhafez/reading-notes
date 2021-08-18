@@ -75,4 +75,5 @@
 |class-12|[Mongo and Mongoose](https://yazanabdulhafez.github.io/reading-notes/class12)|
 |class-13|[CRUD](https://yazanabdulhafez.github.io/reading-notes/class13)           |
 |class-14|[Diversity & Inclusion in the Tech Industry](https://yazanabdulhafez.github.io/reading-notes/class14)|
-|class-15|           |
+|class-14a|[301 Project](https://yazanabdulhafez.github.io/reading-notes/class14a)|
+|class-15|     |
