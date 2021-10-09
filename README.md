@@ -85,7 +85,7 @@
 
 |File Number|Description|
 |-----------|-----------|
-|class-01||
+|class-01|[Java Basics](https://yazanabdulhafez.github.io/reading-notes/read1)|
 |class-02||
 |class-03||
 |class-04||
