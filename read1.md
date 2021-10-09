@@ -47,7 +47,7 @@ Operators are special symbols that perform specific operations on one, two, or t
 An expression is a construct made up of variables, operators, and method invocations, which are constructed according to the syntax of the language, that evaluates to a single value.
 
 ```java
-//examole of exprissions
+//example of expressions
 int cadence = 0;
 anArray[0] = 100;
 System.out.println("Element 1 at index 0: " + anArray[0]);
