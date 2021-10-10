@@ -4,24 +4,24 @@
 
 ### Variables
 
-The Java programming language defines the following kinds of variables:
+Java  defines the following kinds of variables:
 
-* .Instance Variables (Non-Static Fields)
-* .Class Variables (Static Fields)
-* .Local Variables
-* .Parameters
+* Instance Variables (Non-Static Fields)
+* Class Variables (Static Fields)
+* Local Variables
+* Parameters
 
 #### Naming
 
-The rules and conventions for naming variables in the Java programming language can be summarized as follows:
+The rules and conventions for naming variables in  Java :
 
-* .Variable names are case-sensitive.
-* .Subsequent characters may be letters, digits, dollar signs, or underscore characters.
-* .If the name you choose consists of only one word, spell that word in all lowercase letters.
+* Variable names are case-sensitive.
+* Subsequent characters may be letters, digits, dollar signs, or underscore characters.
+* If the name you choose consists of only one word, spell that word in all lowercase letters.
 
 ### Operators
 
-Operators are special symbols that perform specific operations on one, two, or three operands, and then return a result.
+Operators are special symbols that perform specific operations and then return a result.
 
 | Operators            | Precedence                    |
 | -------------------- | ----------------------------- |
@@ -44,13 +44,10 @@ Operators are special symbols that perform specific operations on one, two, or t
 
 #### Expressions
 
-An expression is a construct made up of variables, operators, and method invocations, which are constructed according to the syntax of the language, that evaluates to a single value.
+An expression is a construct made up of variables, operators, and method invocations.
 
 ```java
 //example of expressions
-int cadence = 0;
-anArray[0] = 100;
-System.out.println("Element 1 at index 0: " + anArray[0]);
 
 int result = 1 + 2; // result is now 3
 if (value1 == value2) 
@@ -98,13 +95,15 @@ class BlockDemo {
 
 ### Control Flow Statements
 
-The statements inside the source files are generally executed from top to bottom, in the order that they appear. Control flow statements, however, break up the flow of execution by employing decision making, looping, and branching, enabling  program to conditionally execute particular blocks of code.
+ Control flow statements break up the flow of execution by employing decision making, looping, and branching, enabling  program to conditionally execute particular blocks of code.
 
-The decision-making statements (if-then, if-then-else, switch), the looping statements (for, while, do-while), and the branching statements (break, continue, return) supported by the Java programming language.
+![control flow statments](https://1.bp.blogspot.com/-CPYEexud4bY/XbgOqC_PPdI/AAAAAAAADKg/i7XJ_xqEYFM_7Yw0eZq6dFhDaub1s0c-gCLcBGAsYHQ/s1600/java-control-flow-statement.png)
 
 ## Compiling
 
-When you compile code, the compilor (usually another program) takes the program the human wrote, and converts it into the program the computer can understand (i.e. converts from Java to machine language). The very short version could be, yes, compile means to make the code executable.
+![compiling](https://miro.medium.com/max/1000/1*Qbm5_d5EYIbYa1-jN4JmSg.jpeg)
+
+Its the process of converting the program that human wrote into the program the computer can understand and make the code executable.
 
 ## Making Sense of Java’s API Documentation
 
@@ -112,8 +111,6 @@ You can find things in the API documentation in a number of different ways.
 
 1. Using the index.
 2. Using the list of classes.
-
-To create the API documentation, the captains of Java ran a program called javadoc. The javadoc program took lines like these right out of the PrintStream.java file and used the lines to make the documentation that you see in your web browser.
 
 you can use the javadoc program to create your own documentation. When you download the JDK, you get the javadoc program as part of the deal.
 
