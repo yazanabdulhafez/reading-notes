@@ -4,11 +4,11 @@
 
 ![loops](https://static.javatpoint.com/images/java-loops.png)
 
-In programming languages, looping is a feature which facilitates the execution of a set of instructions until the controlling Boolean-expression evaluates to false.
+looping is a feature which facilitates the execution of a set of instructions until the controlling Boolean-expression evaluates to false.
 
 Java provides different types of loops:
 
-1. For Loop:A for loop is a control structure that allows us to repeat certain operations by incrementing and evaluating a loop counter.
+1. For Loop:A for loop  allows us to repeat certain operations by incrementing the loop counter.
 
 The syntax of the for loop is:
 
@@ -17,7 +17,7 @@ for (initialization; Boolean-expression; step)
   statement;
 ```
 
-2. While Loop: It repeats a statement or a block of statements while its controlling Boolean-expression is true.
+2. While Loop: It repeats a statement or a block of statements while its Boolean-expression is true.
 
 The syntax of the while loop is:
 
@@ -26,7 +26,7 @@ while (Boolean-expression)
     statement;
 ```
 
-3. Do-While Loop:The do-while loop works just like the while loop except for the fact that the first condition evaluation happens after the first iteration of the loop.
+3. Do-While Loop:The do-while loop works just like the while loop but the first condition happens after the first iteration of the loop.
 
 The syntax of the do-while loop is:
 
@@ -72,7 +72,7 @@ public class Drawing {
 
 #### Common imports
 
-There are 166 packages containing 3279 classes and interfaces in Java 5. However, only a few packages are used.
+There are a lot of packages in Java. However, only a few packages are used.
 
 |import|usage                           |
 |------------------|--------------------|
