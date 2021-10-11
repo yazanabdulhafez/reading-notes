@@ -87,7 +87,7 @@
 |-----------|-----------|
 |class-01|[Java Basics](https://yazanabdulhafez.github.io/reading-notes/read1)|
 |class-02|[Arrays, Loops, Imports](https://yazanabdulhafez.github.io/reading-notes/read2)|
-|class-03||
+|class-03|[Maps, primitives, File I/O](https://yazanabdulhafez.github.io/reading-notes/read3)|
 |class-04||
 |class-05||
 |class-06||
