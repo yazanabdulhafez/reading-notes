@@ -89,7 +89,7 @@
 |class-02|[Arrays, Loops, Imports](https://yazanabdulhafez.github.io/reading-notes/read2)|
 |class-03|[Maps, primitives, File I/O](https://yazanabdulhafez.github.io/reading-notes/read3)|
 |class-04|[OOP](https://yazanabdulhafez.github.io/reading-notes/read4)|
-|class-05||
+|class-05|[Linked Lists](https://yazanabdulhafez.github.io/reading-notes/read5)|
 |class-06||
 |class-07||
 |class-08||
