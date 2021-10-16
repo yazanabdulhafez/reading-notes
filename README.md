@@ -90,7 +90,7 @@
 |class-03|[Maps, primitives, File I/O](https://yazanabdulhafez.github.io/reading-notes/read3)|
 |class-04|[OOP](https://yazanabdulhafez.github.io/reading-notes/read4)|
 |class-05|[Linked Lists](https://yazanabdulhafez.github.io/reading-notes/read5)|
-|class-06||
+|class-06|[Inheritance and Interfaces](https://yazanabdulhafez.github.io/reading-notes/read6)|
 |class-07||
 |class-08||
 |class-09||
