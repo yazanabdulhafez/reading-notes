@@ -91,7 +91,7 @@
 |class-04|[OOP](https://yazanabdulhafez.github.io/reading-notes/read4)|
 |class-05|[Linked Lists](https://yazanabdulhafez.github.io/reading-notes/read5)|
 |class-06|[Inheritance and Interfaces](https://yazanabdulhafez.github.io/reading-notes/read6)|
-|class-07||
+|class-07|[Inheritance day](https://yazanabdulhafez.github.io/reading-notes/read7)|
 |class-08||
 |class-09||
 |class-10||
