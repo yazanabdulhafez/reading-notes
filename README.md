@@ -92,8 +92,8 @@
 |class-05|[Linked Lists](https://yazanabdulhafez.github.io/reading-notes/read5)|
 |class-06|[Inheritance and Interfaces](https://yazanabdulhafez.github.io/reading-notes/read6)|
 |class-07|[Inheritance day](https://yazanabdulhafez.github.io/reading-notes/read7)|
-|class-08||
-|class-09||
+|class-08|[Object-Oriented Design](https://yazanabdulhafez.github.io/reading-notes/read8)|
+|class-09|[WRRC and Java](https://yazanabdulhafez.github.io/reading-notes/read9)|
 |class-10||
 |class-11||
 |class-12||
