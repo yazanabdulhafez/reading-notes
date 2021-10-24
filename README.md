@@ -96,7 +96,7 @@
 |class-09|[WRRC and Java](https://yazanabdulhafez.github.io/reading-notes/read9)|
 |class-10|[Stacks and Queues](https://yazanabdulhafez.github.io/reading-notes/read10)|
 |class-11|[Spring](https://yazanabdulhafez.github.io/reading-notes/read11)|
-|class-12||
+|class-12|[Spring RESTful Routing & Static Files](https://yazanabdulhafez.github.io/reading-notes/read12)|
 |class-13||
 |class-14||
 |class-15||
