@@ -98,7 +98,7 @@
 |class-11|[Spring](https://yazanabdulhafez.github.io/reading-notes/read11)|
 |class-12|[Spring RESTful Routing & Static Files](https://yazanabdulhafez.github.io/reading-notes/read12)|
 |class-13|[Related Resources and Integration Testing](https://yazanabdulhafez.github.io/reading-notes/read13)|
-|class-14||
+|class-14|[Trees](https://yazanabdulhafez.github.io/reading-notes/read14)|
 |class-15||
 |class-16||
 |class-17||
