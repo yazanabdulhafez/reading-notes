@@ -54,13 +54,13 @@ The default fallback filter chain in a Spring Boot application (the one with the
 
 ### Request Matching for Dispatch and Authorization
 
-* WebSecurityConfigurerAdapteris A security filter chain has a request matcher used to decide whether to apply it to an HTTP request.
+* WebSecurityConfigurerAdapter its a security filter chain has a request matcher used to decide whether to apply it to an HTTP request.
 
 * In a filter chain, you can have more fine-grained control of authorization by setting additional matchers in the HttpSecurity configurer.
 
 ### Combining Application Security Rules with Actuator Rules
 
-* When you add actuater to a secure applicationthen you can get an additional filter chain that applies only to the actuator endpoints.
+* When you add actuater to a secure an application then you can get an additional filter chain that applies only to the actuator endpoints.
 
 * If you want your application security rules to apply to the actuator endpoints, you can add a filter chain that is ordered earlier than the actuator one and that has a request matcher that includes all actuator endpoints.
 
@@ -70,13 +70,16 @@ The default fallback filter chain in a Spring Boot application (the one with the
 
 ## Method Security
 
-Spring Security offers support for applying access rules to Java method executions.
+* Spring Security offers support for applying access rules to Java method executions.
 
-* There are other annotations that you can use on methods to enforce security constraints, notably @PreAuthorize and @PostAuthorize
+* There are other annotations to enforce security constraints:
+
+1. notably @PreAuthorize
+2. @PostAuthorize
 
 ## Working with Threads
 
-Spring Security is fundamentally thread-bound, because it needs to make the current authenticated principal available to a wide variety of downstream consumers.
+Spring Security is fundamentally thread-bounddue to it needs to make the current authenticated principal available to a wide variety of downstream consumers.
 
 ### Processing Secure Methods Asynchronously
 
