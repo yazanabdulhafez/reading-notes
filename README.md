@@ -100,7 +100,7 @@
 |class-13|[Related Resources and Integration Testing](https://yazanabdulhafez.github.io/reading-notes/read13)|
 |class-14|[Trees](https://yazanabdulhafez.github.io/reading-notes/read14)|
 |class-16|[Spring Authentication](https://yazanabdulhafez.github.io/reading-notes/read16)|
-|class-17||
+|class-17|[Spring Authorization](https://yazanabdulhafez.github.io/reading-notes/read17)|
 |class-18||
 |class-19||
 |class-20||
