@@ -2,35 +2,62 @@
 
 ## Spring Boot and OAuth2
 
+The sample apps can be easily extended and re-configured for more specific use cases,there are multi sample apps to build:
+
+* simple: a very basic static app with just a home page and unconditional login via Spring Boot’s OAuth 2.0 configuration properties when visit home you redirected to GitHub.
+
+* click: adds an explicit link that the user has to click to login.
+
+* logout: adds a logout link as well for authenticated users.
+
+* two-providers: adds a second login provider so the user can choose on the home page which one to use.
+
+* custom-error: adds an error message for unauthenticated users, and a custom authentication based on GitHub’s API.
+
 ## Single Sign On With GitHub
 
-Creating a New Project
-First, you need to create a Spring Boot application, which can be done in a number of ways. The easiest is to go to <https://start.spring.io> and generate an empty project (choosing the "Web" dependency as a starting point).
+* Creating a New Project
 
-Add a Home Page
-In your new project, create index.html in the src/main/resources/static folder.
+to create a new project we go to <https://start.spring.io> and generate an empty project.
 
-Securing the Application with GitHub and Spring Security
-To make the application secure, you can simply add Spring Security as a dependency. Since you’re wanting to do a "social" login (delegate to GitHub), you should include the Spring Security OAuth 2.0 Client starter:
+* Add a Home Page
 
-Add a New GitHub App
-To use GitHub’s OAuth 2.0 authentication system for login, you must first Add a new GitHub app.
+* Securing the Application with GitHub and Spring Security
 
-Select "New OAuth App" and then the "Register a new OAuth application" page is presented. Enter an app name and description. Then, enter your app’s home page, which should be <http://localhost:8080>, in this case. Finally, indicate the Authorization callback URL as <http://localhost:8080/login/oauth2/code/github> and click Register Application.
+* Add a New GitHub App
 
-Making the Home Page Public: becouse the app work fine and authenticate, but it’s still going to redirect before showing the page. you need to make the link visible.
+## Add a Welcome Page
 
-Add a Logout Button: adding a button that allows the user to log out of the app.
+* Conditional Content on the Home Page
 
-Adding a Logout Endpoint: The /logout endpoint requires us to POST to it, and to protect the user from Cross Site Request Forgery (CSRF, pronounced "sea surf"), it requires a token to be included in the request. The value of the token is linked to the current session.
+* The /user Endpoint
 
-Login with GitHub:
+* Making the Home Page Public: becouse the app work fine and authenticate, but it’s still going to redirect before showing the page. you need to make the link visible.
 
-Initial setup.
-Setting the redirect URI.
-Adding the Client Registration.
-Adding the Login Link.
-Adding an Error Page for Unauthenticated Users: to give some feedback to users that cannot authenticate. And extends the authentication logic to include a rule that only allows users if they belong
+## Add a Logout Button
+
+* Client Side Changes
+* Adding a Logout Endpoint
+* Adding the CSRF Token in the Client
+
+## Login with GitHub
+
+* Setting the redirect URI
+* Adding the Client Registration
+* Adding the Login Link
+
+## How to Add a Local User Database
+
+1. Choose a backend for your database, and set up some repositories.
+
+2. Implement and expose OAuth2UserService to call the Authorization Server as well as your database.
+
+## Adding an Error Page for Unauthenticated Users
+
+* Switching to GitHub
+* Detecting an Authentication Failure in the Client
+* Adding an Error Message
+* Generating a 401 in the Server
 
 ## Resources used in this reading note
 
