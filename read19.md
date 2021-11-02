@@ -29,7 +29,7 @@ In this step we create a controller to receive the hello message and send a gree
 ## Configure Spring for STOMP messaging
 
 configure Spring to enable WebSocket and STOMP messaging.
-Create a Java class named WebSocketConfig that resembles the following listing.
+Create a Java class named WebSocketConfig .
 
 ## Create a Browser Client
 
