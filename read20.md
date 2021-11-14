@@ -26,11 +26,11 @@ There are four different types of app components:
 
 ### Activities
 
-Its the entry point to enteract with the user.
+It is the entry point to enteract with the user.
 
 ### Services
 
-Its a general-purpose entry point for keeping an app running in the background
+It is a general-purpose entry point for keeping an app running in the background
 There are two types of services that tell the system how to manage an app:
 
 1. started services
@@ -38,23 +38,23 @@ There are two types of services that tell the system how to manage an app:
 
 ### Broadcast receivers
 
-Its enables the system to deliver events to the app outside of a regular user flow
+It enables the system to deliver events to the app outside of a regular user flow
 
 ### Content providers
 
-Its manages a shared set of app data that you can store in the file system
+It manages a shared set of app data that you can store in the file system
 
 ## Activating components
 
 Activities, services, and broadcast receivers—are activated by an asynchronous message(intent).
 
-Content providers are activated by a request from the a ContentResolver.
+Content providers are activated by a request from a ContentResolver.
 
 ## The manifest file
 
-Its the root file of the project,it contain the components of the project.
+It is the root file of the project, it contains the components of the project.
 
-There are another benfits for the manifest file more than the component defention:
+There are other benefits for the manifest file more than the component definition:
 
 1. Identifies any user permissions the app requires.
 2. Declares the minimum API Level required by the app.
@@ -76,7 +76,7 @@ We use  intent filters to declare the capabilities of the activity.
 
 ### Declaring app requirements
 
-Its important to declare app requirements and most of these declarations are informational only and the system does not read them, but external services can read them.
+It is important to declare app requirements and most of these declarations are informational only and the system does not read them, but external services can read them.
 
 ## App resources
 
@@ -86,4 +86,4 @@ Its important to declare app requirements and most of these declarations are inf
 
 ## Resources used in this reading
 
-1.[Application Fundamentals](https://developer.android.com/guide/components/fundamentals#Components)
+1. [Application Fundamentals](https://developer.android.com/guide/components/fundamentals#Components)
