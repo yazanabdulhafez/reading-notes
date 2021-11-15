@@ -2,9 +2,9 @@
 
 ## Create dynamic lists with RecyclerView
 
-![ResycleView](https://csharpcorner-mindcrackerinc.netdna-ssl.com/article/recyclerview-in-andriod-with-java/Images/output_gif.gif)
-
 RecycleView make it easier to handle displying a large set of data as a list. When an item scrolls off the screen, RecyclerView doesn't destroy its view. Instead, RecyclerView reuses the view for new items that have scrolled onscreen.
+
+![ResycleView](https://miro.medium.com/max/200/1*Bu_PjgiOEM9CVgJVz3XiNQ.gif)
 
 ### Key classes
 
@@ -31,13 +31,17 @@ The items in your RecyclerView are arranged by a LayoutManager class. The Recycl
 
 ### Implementing your adapter and view holder
 
+Adapter and view holder are two classes work with each other The ViewHolder is a wrapper around a View that contains the layout for an individual item in the list. The Adapter creates ViewHolder objects when its needed also sets the data for those views.
+
+The process of associating views to their data is called binding.
+
 When you define your adapter, you need to override three key methods:
 
-* <span style="color: blue;">onCreateViewHolder()</span>: RecyclerView calls this method whenever it needs to create a new ViewHolder. The method creates and initializes the ViewHolder and its associated View, but does not fill in the view's contents—the ViewHolder has not yet been bound to specific data.
+1. <span style="color: blue;">onCreateViewHolder()</span>: This method creates and initializes the ViewHolder and its associated View, but does not fill in the view's contents—the ViewHolder has not yet been bound to specific data.
 
-* <span style="color: blue;">onBindViewHolder()</span>: RecyclerView calls this method to associate a ViewHolder with data. The method fetches the appropriate data and uses the data to fill in the view holder's layout. For example, if the RecyclerView displays a list of names, the method might find the appropriate name in the list and fill in the view holder's TextView widget.
+2. <span style="color: blue;">onBindViewHolder()</span>:This method is called by RecyclerView  to associate a ViewHolder with data. The method fetches the appropriate data and uses the data to fill in the view holder's layout.
 
-* <span style="color: blue;">getItemCount()</span>: RecyclerView calls this method to get the size of the data set. For example, in an address book app, this might be the total number of addresses. RecyclerView uses this to determine when there are no more items that can be displayed.
+3. <span style="color: blue;">getItemCount()</span>:this method called by RecyclerView   to get the size of the data set.
 
 ## Resources used in this reading
 
