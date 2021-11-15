@@ -2,38 +2,38 @@
 
 ## Tasks and the back stack
 
-A task is group of activities ,when a user start to use the application these activities pushed to the stack in the order they opend and when finsh one activity it poped from the stack and return to previous activity.
+A task is a group of activities, when a user starts to use the application these activities are pushed to the stack in the order they opened, and when finish one activity it popped from the stack and return to the previous activity.
 
 ### Lifecycle of a task and its back stack
 
 ![lifeCycle](https://developer.android.com/images/fundamentals/diagram_backstack.png)
 
-When the current activity starts another, the new activity is pushed on the top of the stack and takes focus. The previous activity remains in the stack, but is stopped. When an activity stops, the system retains the current state of its user interface. When the user performs the back action, the current activity is popped from the top of the stack (the activity is destroyed) and the previous activity resumes.
+When the current activity starts another, the new activity is pushed on the top of the stack and takes focus. The previous activity remains in the stack but is stopped. When activity stops, the system retains the current state of its user interface. When the user performs the back action, the current activity is popped from the top of the stack (the activity is destroyed) and the previous activity resumes.
 
 ### Back press behavior for root launcher activities
 
-root luncher activities declare intent filters with
+root launcher activities declare intent filters with
 
 1. ACTION_MAIN
 2. CATEGORY_LAUNCHER
 
-and these activities are unique since it is act as entry points
+and these activities are unique since it acts as entry points
 
 ### Background and foreground tasks
 
 A task is a cohesive unit it can be moved to the background when a user begins a new task or goes to the Home screen.
 
-### Multiple activity instances
+### Multiple activities instance
 
-one activity could be instantiated multiple times with diffrent tasks since the activities not arranged in the stack.
+one activity could be instantiated multiple times with different tasks since the activities are not arranged in the stack.
 
 ### Multi-window environments
 
-In android 7.0 and higher the system can mange the tasks for more than one windo from the same application.
+In Android 7.0 and higher, the system can manage the tasks for more than one window from the same application.
 
 ## Manage tasks
 
-All the tasks put in the stack and processed on the principle first in last out,but some time we need to break this system and create new activity in order to do this we use  attributes in the `<activity>` manifest element and with flags in the intent that we pass to **startActivity()**.
+All the tasks are put in the stack and processed on the principle first in last out, but some time we need to break this system and create a new activity in order to do this we use attributes in the `<activity>` manifest element and with flags in the intent that we pass to **startActivity()**.
 
 ### Defining launch modes
 
@@ -48,11 +48,11 @@ An affinity indicates which task an activity prefers to belong to.all the activi
 
 ### Clear the back stack
 
-if the user leav the task for long time the system clear all the acticities except the root activity.
+if the user leaves the task for a long time the system clears all the activities except the root activity.
 
 ### Start a task
 
-we can set an activity as an entry poind by giving it an intent filter with **"android.intent.action.MAIN"** as the specified action and **"android.intent.category.LAUNCHER"** as the specified category.
+we can set activity as an entry point by giving it an intent filter with **"android.intent.action.MAIN"** as the specified action and **"android.intent.category.LAUNCHER"** as the specified category.
 
 ## Save key-value data
 
