@@ -106,3 +106,4 @@
 |class-20|[Android Fundamentals](https://yazanabdulhafez.github.io/reading-notes/read20)|
 |class-21|[Intents, Activities, and SharedPreferences](https://yazanabdulhafez.github.io/reading-notes/read21)|
 |class-22|[RecyclerView](https://yazanabdulhafez.github.io/reading-notes/read22)|
+|class-23|[Room](https://yazanabdulhafez.github.io/reading-notes/read23)|

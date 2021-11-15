@@ -31,11 +31,11 @@ The items in your RecyclerView are arranged by a LayoutManager class. The Recycl
 
 ### Implementing your adapter and view holder
 
-Adapter and view holder are two classes work with each other The ViewHolder is a wrapper around a View that contains the layout for an individual item in the list. The Adapter creates ViewHolder objects when its needed also sets the data for those views.
+* Adapter and view holder are two classes work with each other The ViewHolder is a wrapper around a View that contains the layout for an individual item in the list. The Adapter creates ViewHolder objects when its needed also sets the data for those views.
 
-The process of associating views to their data is called binding.
+* The process of associating views to their data is called binding.
 
-When you define your adapter, you need to override three key methods:
+* When you define your adapter, you need to override three key methods:
 
 1. <span style="color: blue;">onCreateViewHolder()</span>: This method creates and initializes the ViewHolder and its associated View, but does not fill in the view's contents—the ViewHolder has not yet been bound to specific data.
 
