@@ -107,3 +107,4 @@
 |class-21|[Intents, Activities, and SharedPreferences](https://yazanabdulhafez.github.io/reading-notes/read21)|
 |class-22|[RecyclerView](https://yazanabdulhafez.github.io/reading-notes/read22)|
 |class-23|[Room](https://yazanabdulhafez.github.io/reading-notes/read23)|
+|class-24|[Room](https://yazanabdulhafez.github.io/reading-notes/read24)|

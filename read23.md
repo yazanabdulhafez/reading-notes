@@ -2,7 +2,7 @@
 
 ## Save data in a local database using Room
 
-Room provides the following benefits:
+The room provides the following benefits:
 
 1. Compile-time verification of SQL queries.
 2. Convenience annotations that minimize repetitive and error-prone boilerplate code.
@@ -24,9 +24,9 @@ Defining data using Room entities
 
 * Anatomy of an entity: we define each Room entity as a class and annotated with @Entity
 
-* Define a primary key:each room entity must have primary key and we annotate a single column with @PrimaryKey.
+* Define a primary key: each room entity must have primary key and we annotate a single column with @PrimaryKey.
 
-* Define a composite primary key:we define composite primary key by listing those columns in the primaryKeys property of @Entity:
+* Define a composite primary key: we define composite primary key by listing those columns in the primaryKeys property of @Entity:
 
 ##### Ignore fields
 
@@ -63,7 +63,7 @@ Special return types
 
 #### Database
 
-In order to hold the database we need to creat a `AppDatabase` class,and this class define the configrations and save entry points and there is condtion must be satisfied:
+In order to hold the database we need to creat a `AppDatabase` class,and this class define the configrations and save entry points and there is a condtion must be satisfied:
 
 1. annotated with a @Database
 2. abstract class that extends RoomDatabase
