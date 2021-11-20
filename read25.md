@@ -30,7 +30,7 @@ Espresso need the following packages:
 
 ## Create UI tests with Espresso Test Recorder
 
-Espresso Test allow us to create UI tests without writing any testing code.
+Espresso Test allows us to create UI tests without writing any testing code.
 
 ### Record an Espresso test
 
@@ -57,15 +57,14 @@ To start recording a test with Espresso:
 * To add an assertion to your test, proceed as follows:
 
 1. Click Add Assertion.
-2. To select a View element on which to create an assertion, click on the element in the screenshot or use the first drop-down menu in the Edit assertion box in bottom of page.
+2. To select a View element on which to create an assertion, click on the element in the screenshot or use the first drop-down menu in the Edit assertion box at bottom of the page.
 3. Select the assertion.
 4. Click Save and Add Another to create another assertion or click Save Assertion to close the assertion panels.
 
 ### Save a recording
 
 1. Click Complete Recording. The Pick a test class name for your test window appears.
-2. from pick name for the test you can choose the default name or you can change it then Click Save.
-If there is a Missing Espresso dependencies an dialog appears when you try to save your test. Click Yes to automatically add the dependencies to your build.gradle file.
+2. from pick name for the test, you can choose the default name or you can change it then click Save.If there are Missing Espresso dependencies a dialog appears when you try to save your test. Click Yes to automatically add the dependencies to your build.gradle file.
 
 ## Run an Espresso test locally
 
