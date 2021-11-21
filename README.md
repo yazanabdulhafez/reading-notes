@@ -109,3 +109,4 @@
 |class-23|[Room](https://yazanabdulhafez.github.io/reading-notes/read23)|
 |class-24|[Hash Tables](https://yazanabdulhafez.github.io/reading-notes/read24)|
 |class-25|[Espresso](https://yazanabdulhafez.github.io/reading-notes/read25)|
+|class-26|[Serverless and Amplify](https://yazanabdulhafez.github.io/reading-notes/read26)|
