@@ -2,7 +2,7 @@
 
 ## Choose a monetization model for your app
 
-In order to increase our revenue,we must choose a flexible monetization strategy that attracts the audiences and markets.
+In order to increase our revenue, we must choose a flexible monetization strategy that attracts audiences and markets.
 
 ### Sell goods or services through your app
 
