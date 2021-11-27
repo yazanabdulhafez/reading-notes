@@ -41,4 +41,4 @@ We can check the current auth session by using **Amplify.Auth.fetchAuthSession**
 
 ## Resources for this reading
 
-1. [AUTHENTICATION](https://docs.amplify.aws/lib/auth/getting-started/q/platform/android/#check-the-current-auth-session))
+1. [AUTHENTICATION](https://docs.amplify.aws/lib/auth/getting-started/q/platform/android/#check-the-current-auth-session)
