@@ -1,4 +1,4 @@
-# 37 - S3
+# Amazon S3
 
 ## What is Amazon S3?
 
