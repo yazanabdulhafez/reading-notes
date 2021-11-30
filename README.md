@@ -115,3 +115,4 @@
 |class-29|[Graphs](https://yazanabdulhafez.github.io/reading-notes/read29)|
 |class-30|[Cognito](https://yazanabdulhafez.github.io/reading-notes/read30)|
 |class-31|[Amazon S3](https://yazanabdulhafez.github.io/reading-notes/read31)|
+|class-32|[Notifications](https://yazanabdulhafez.github.io/reading-notes/read32)|
