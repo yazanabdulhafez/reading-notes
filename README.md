@@ -117,3 +117,4 @@
 |class-31|[Amazon S3](https://yazanabdulhafez.github.io/reading-notes/read31)|
 |class-32|[Notifications](https://yazanabdulhafez.github.io/reading-notes/read32)|
 |class-33|[Kinesis](https://yazanabdulhafez.github.io/reading-notes/read33)|
+|class-34|[Intent Filters](https://yazanabdulhafez.github.io/reading-notes/read34)|
