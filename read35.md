@@ -29,6 +29,10 @@ There is general ethics we must have like:
 
 8. Software engineers shall participate the learning process and contribute with their knowladge.
 
+## My reflection about these ethics
+
+I agree about what in them and we must have these ethics in order to serve the humanity and develope this industry.
+
 ## Resources used in this reading
 
 1. [Code of ethics](https://www.acm.org/code-of-ethics)
